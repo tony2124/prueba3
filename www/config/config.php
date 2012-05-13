@@ -9,7 +9,7 @@ if(!defined("_access")) {
 /**
  * Website
  */
-$ZP["webURL"] 	    = "http://localhost/adExtra";
+$ZP["webURL"] 	    = "http://localhost:8080/adExtra";
 $ZP["webName"] 	    = "Aministrador Extraescolares";
 $ZP["webTheme"]     = "default";
 $ZP["webSituation"] = "Active";
