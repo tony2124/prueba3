@@ -40,9 +40,9 @@ $ZP["translation"] = "normal";
  */
 define("_sh", "/");
 define("_rs", "http://localhost:8080/dropbox/extraescolares");
-define("_spath",$_SERVER['DOCUMENT_ROOT']."/dropbox/extraescolares/IMAGENES/fotosNoticias/");
+define("_spath",$_SERVER['DOCUMENT_ROOT']."/dropbox/extraescolares");
 //define("_rs", "http://serviciosextraescolares.itsapatzingan.net");
-//define("_spath",$_SERVER['DOCUMENT_ROOT']."/serviciosextraescolares/IMAGENES/fotosNoticias/");
+//define("_spath",$_SERVER['DOCUMENT_ROOT']."/serviciosextraescolares");
 define("_corePath", "zan");
 define("_index", "index.php");
 define("_secretKey", "_eh{Ll&}`<6Y\mg1Qw(;;|C3N9/7*HTpd7SK8t/[}R[vW2)vsPgBLRP2u(C|4]%m_");
