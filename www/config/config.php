@@ -9,7 +9,7 @@ if(!defined("_access")) {
 /**
  * Website
  */
-$ZP["webURL"] 	    = "http://localhost/adExtra";
+$ZP["webURL"] 	    = "http://localhost:8080/adExtra";
 $ZP["webName"] 	    = "Aministrador Extraescolares";
 $ZP["webTheme"]     = "default";
 $ZP["webSituation"] = "Active";
@@ -40,7 +40,7 @@ $ZP["translation"] = "normal";
  * Constants
  */
 define("_sh", "/");
-define("_rs", "http://localhost/dropbox/extraescolares");
+define("_rs", "http://localhost:8080/dropbox/extraescolares");
 define("_spath",$_SERVER['DOCUMENT_ROOT']."/dropbox/extraescolares");
 //define("_rs", "http://serviciosextraescolares.itsapatzingan.net");
 //define("_spath",$_SERVER['DOCUMENT_ROOT']."/serviciosextraescolares");
